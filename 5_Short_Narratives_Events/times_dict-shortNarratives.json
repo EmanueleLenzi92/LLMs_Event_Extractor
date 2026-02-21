@@ -1,0 +1,155 @@
+{
+    "gemma2:9b-instruct-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.9548325300216675
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.24404338598251343
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.25777270396550495
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.3645296057065328
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.25023903052012125
+        }
+    },
+    "llama3:8b-instruct-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.5866572260856628
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.162723171710968
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.19670431613922118
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.20994630257288616
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.15631616512934368
+        }
+    },
+    "mistral:7b-instruct-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.3035845160484314
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.18296651442845663
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.17854843139648438
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.23295884132385253
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.17673680782318116
+        }
+    },
+    "gemma2:2b": {
+        "AustrianAlps": {
+            "prompt_0": 0.19255560636520386
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.08906488418579102
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.1082841396331787
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.1396316091219584
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.10332924127578735
+        }
+    },
+    "llama3.2:3b": {
+        "AustrianAlps": {
+            "prompt_0": 0.14428435564041137
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.08786172072092692
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.07811837991078695
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.10846476554870606
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.0738449772198995
+        }
+    },
+    "phi3.5:latest": {
+        "AustrianAlps": {
+            "prompt_0": 0.21400640408198038
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.08806460698445638
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.06901839971542359
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.08641855716705323
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.08194625775019328
+        }
+    },
+    "deepseek-r1:14b-qwen-distill-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 1.4345603108406066
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 1.0752577543258668
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.7106300910313924
+        },
+        "CorsicaFrance": {
+            "prompt_0": 1.044048829873403
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.6818951567014059
+        }
+    },
+    "phi4:14b-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.6085553129514059
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.40212204853693645
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.3832114140192668
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.4608840545018514
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.27511951128641765
+        }
+    },
+    "llama2:13b-chat-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.5710256099700928
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.3246039390563965
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.26979955037434894
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.39576863050460814
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.32470341126124064
+        }
+    }
+}

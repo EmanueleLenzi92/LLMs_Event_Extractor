@@ -1,0 +1,155 @@
+{
+    "gemma2:9b-instruct-q8_0": {
+        "LONGAustrianAlps": {
+            "prompt_0": 1.201104958852132
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 0.9889519532521566
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 1.0176962852478026
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 0.6173577745755513
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 0.4708030621210734
+        }
+    },
+    "llama3:8b-instruct-q8_0": {
+        "LONGAustrianAlps": {
+            "prompt_0": 1.436956242720286
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 1.2765961686770122
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 1.4442774415016175
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 0.5884252587954203
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 1.0503057718276978
+        }
+    },
+    "mistral:7b-instruct-q8_0": {
+        "LONGAustrianAlps": {
+            "prompt_0": 0.7486364046732584
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 0.4222641666730245
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 0.5920355161031087
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 0.9185383041699727
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 0.5256191333134969
+        }
+    },
+    "gemma2:2b": {
+        "LONGAustrianAlps": {
+            "prompt_0": 0.43478950262069704
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 0.20336252450942993
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 0.34260128339131674
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 0.2978307565053304
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 0.39536484082539874
+        }
+    },
+    "llama3.2:3b": {
+        "LONGAustrianAlps": {
+            "prompt_0": 0.18225727478663126
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 0.2943885723749797
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 0.42535261710484823
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 0.2141886035601298
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 0.4481771945953369
+        }
+    },
+    "phi3.5:latest": {
+        "LONGAustrianAlps": {
+            "prompt_0": 0.6521575013796489
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 0.24057244459788005
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 0.7777523954709371
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 1.0582433064778647
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 0.8272720535596212
+        }
+    },
+    "deepseek-r1:14b-qwen-distill-q8_0": {
+        "LONGAustrianAlps": {
+            "prompt_0": 2.0787052869796754
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 2.519282364845276
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 1.4809898138046265
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 1.8438815991083781
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 2.7934513807296755
+        }
+    },
+    "phi4:14b-q8_0": {
+        "LONGAustrianAlps": {
+            "prompt_0": 0.7649736682573954
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 0.8382643659909567
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 0.7497685194015503
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 2.3764771302541097
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 0.558731985092163
+        }
+    },
+    "llama2:13b-chat-q8_0": {
+        "LONGAustrianAlps": {
+            "prompt_0": 0.8262590209643046
+        },
+        "LONGStaraPlaninaBulgaria": {
+            "prompt_0": 0.49651950200398765
+        },
+        "LONGCeskyLesCzechia": {
+            "prompt_0": 0.5717899878819783
+        },
+        "LONGCorsicaFrance": {
+            "prompt_0": 0.8232336441675822
+        },
+        "LONGDromeValleyFrance": {
+            "prompt_0": 0.6961501916249593
+        }
+    }
+}

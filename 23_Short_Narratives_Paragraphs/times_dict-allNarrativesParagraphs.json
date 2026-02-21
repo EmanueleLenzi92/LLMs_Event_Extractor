@@ -1,0 +1,641 @@
+{
+    "gemma2:9b-instruct-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.4251976211865743
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.22545260190963745
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.23265719811121624
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.2846153696378072
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.20905150969823202
+        },
+        "CreteGreece": {
+            "prompt_0": 0.2813368201255798
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 0.297844131787618
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.2396977186203003
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.22582201957702636
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.34057793617248533
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.3396997292836507
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.3922662417093913
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.3662940541903178
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 0.5275699456532796
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.28755520582199096
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.36714131832122804
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.3632430116335551
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.29289809465408323
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.30332114299138385
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 0.44397329092025756
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.392957866191864
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.23447184562683104
+        },
+        "UKScotland": {
+            "prompt_0": 0.24368008375167846
+        }
+    },
+    "llama3:8b-instruct-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.3554671764373779
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.1714489738146464
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.18426526784896852
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.22313851515452068
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.17079355319341025
+        },
+        "CreteGreece": {
+            "prompt_0": 0.21775575478871664
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 0.22763465642929076
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.19357039133707682
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.18514427344004314
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.26493762334187826
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.2615312059720357
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.3122473875681559
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.2843175729115804
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 0.4154315829277039
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.2286030133565267
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.273334256807963
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.28566568295160927
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.23717284202575684
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.2329798976580302
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 0.3239694078763326
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.300470777352651
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.18478878339131674
+        },
+        "UKScotland": {
+            "prompt_0": 0.19181390603383383
+        }
+    },
+    "mistral:7b-instruct-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.32894387245178225
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.17530686457951863
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.1671372652053833
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.21968775192896525
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.1595461368560791
+        },
+        "CreteGreece": {
+            "prompt_0": 0.20462365547815958
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 0.164987313747406
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.18609952926635742
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.18064916928609212
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.26074223121007284
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.22744462887446085
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.30762561162312824
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.29411848783493044
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 0.37008304595947267
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.1970604379971822
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.29051362673441566
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.27771317958831787
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.23147581020991007
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.22619911034901938
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 0.19382020235061645
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.3103192170461019
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.18185983896255492
+        },
+        "UKScotland": {
+            "prompt_0": 0.17684315045674642
+        }
+    },
+    "gemma2:2b": {
+        "AustrianAlps": {
+            "prompt_0": 0.1321238915125529
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.07632326682408651
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.07808313767115276
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.09666052659352621
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.07121897538503011
+        },
+        "CreteGreece": {
+            "prompt_0": 0.09532940785090128
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 0.0662956714630127
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.08092689514160156
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.07696457703908284
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.11505584319432577
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.11532409191131592
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.13301697572072346
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.12452934583028158
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 0.17923996051152546
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.09645580053329468
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.1225064237912496
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.12196013132731119
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.0989309549331665
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.10280454953511556
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 0.14808482726414998
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.12976019779841105
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.07859239975611369
+        },
+        "UKScotland": {
+            "prompt_0": 0.08322372436523437
+        }
+    },
+    "llama3.2:3b": {
+        "AustrianAlps": {
+            "prompt_0": 0.13005361954371134
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.0683420221010844
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.07458471854527791
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.09011223713556925
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.0690860112508138
+        },
+        "CreteGreece": {
+            "prompt_0": 0.08763868014017741
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 0.09019554456075032
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.07790920734405518
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.07443133195241293
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.10601673126220704
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.10463786125183105
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.12315244277318318
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.11350852648417155
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 0.17041271130243937
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.09161173899968465
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.11244221528371175
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.11413052876790365
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.0954279899597168
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.09284860690434774
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 0.13047833840052286
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.12049544254938761
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.07459127505620321
+        },
+        "UKScotland": {
+            "prompt_0": 0.07726888259251913
+        }
+    },
+    "phi3.5:latest": {
+        "AustrianAlps": {
+            "prompt_0": 0.5697521845499675
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.1271795392036438
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 1.9161521792411804
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.15520490010579427
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.2725079854329427
+        },
+        "CreteGreece": {
+            "prompt_0": 0.19936666488647461
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 0.0684844414393107
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.0713972528775533
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.08083561658859253
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.08569724162419637
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.09451593160629272
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.052457773685455324
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.009148279825846354
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 0.3203266978263855
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.01944483518600464
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.03819734652837117
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.05511849323908488
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.07352714538574219
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.06117797295252482
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 0.07503929138183593
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.019375022252400717
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.04655898014704386
+        },
+        "UKScotland": {
+            "prompt_0": 0.04814211130142212
+        }
+    },
+    "deepseek-r1:14b-qwen-distill-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.7922585686047872
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.5586862285931905
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.6550414204597473
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.7519522547721863
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.5598470330238342
+        },
+        "CreteGreece": {
+            "prompt_0": 0.6010024746259054
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 1.099806304772695
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.5653959711392721
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.6663302739461263
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.5658099373181661
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.7213424007097881
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.7269392410914103
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.7553457061449687
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 1.07005002895991
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.7707928578058879
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.8131221890449524
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.757315464814504
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.7880848010381063
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.7504320462544759
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 1.1296534180641173
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.9603557785352071
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.7217360575993855
+        },
+        "UKScotland": {
+            "prompt_0": 0.6268355091412862
+        }
+    },
+    "phi4:14b-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.5896907011667888
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.2822729746500651
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.30671009222666423
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.3657923380533854
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.2783217628796895
+        },
+        "CreteGreece": {
+            "prompt_0": 0.3537723978360494
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 0.2722695390383402
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.3123344898223877
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.29713848034540813
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.4401259541511536
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.42718187570571897
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.507422395547231
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.46738348007202146
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 0.6811346570650737
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.3705334305763245
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.4520701885223389
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.46836034854253134
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.39586012760798134
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.3857808272043864
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 0.5347858111063639
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.5008569598197937
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.2995494802792867
+        },
+        "UKScotland": {
+            "prompt_0": 0.30791817903518676
+        }
+    },
+    "llama2:13b-chat-q8_0": {
+        "AustrianAlps": {
+            "prompt_0": 0.5711806615193685
+        },
+        "StaraPlaninaBulgaria": {
+            "prompt_0": 0.3448623180389404
+        },
+        "CeskyLesCzechia": {
+            "prompt_0": 0.35635633071263634
+        },
+        "CorsicaFrance": {
+            "prompt_0": 0.42706629435221355
+        },
+        "DromeValleyFrance": {
+            "prompt_0": 0.31915037631988524
+        },
+        "CreteGreece": {
+            "prompt_0": 0.3964652498563131
+        },
+        "TransdanubianMountainsHungary": {
+            "prompt_0": 0.296611758073171
+        },
+        "CentralApenninesItaly": {
+            "prompt_0": 0.3725853522618612
+        },
+        "EasternAlpsItaly": {
+            "prompt_0": 0.34071059226989747
+        },
+        "NorthernApenninesItaly": {
+            "prompt_0": 0.5683258136113485
+        },
+        "MaleshevskimountainsNorthMacedonia": {
+            "prompt_0": 0.5644037326176962
+        },
+        "CordilheiracentralPortugal": {
+            "prompt_0": 0.3876734217007955
+        },
+        "MacicoNoroestePortugal": {
+            "prompt_0": 0.3640442768732707
+        },
+        "SouthernRomanianCarpathian": {
+            "prompt_0": 0.8398774623870849
+        },
+        "DinaricMountainsSerbia": {
+            "prompt_0": 0.3658852259318034
+        },
+        "SlovakCarpathianmountainsSlovakia": {
+            "prompt_0": 0.5480861028035482
+        },
+        "BeticSystemsSpain": {
+            "prompt_0": 0.5349288503328959
+        },
+        "SierraMorenaSpain": {
+            "prompt_0": 0.44732397397359214
+        },
+        "SpanishPyreneesSpain": {
+            "prompt_0": 0.4561176021893819
+        },
+        "SwissAlpsSwitzerland": {
+            "prompt_0": 0.6217910369237264
+        },
+        "SwissJuraSwitzerland": {
+            "prompt_0": 0.5985100785891215
+        },
+        "BeydaglariTurkey": {
+            "prompt_0": 0.3831193923950195
+        },
+        "UKScotland": {
+            "prompt_0": 0.3551140387852987
+        }
+    }
+}

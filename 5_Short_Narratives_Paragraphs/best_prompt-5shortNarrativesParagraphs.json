@@ -1,0 +1,63 @@
+{
+    "gemma2:9b-instruct-q8_0": {
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CorsicaFrance": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    },
+    "llama3:8b-instruct-q8_0": {
+        "AustrianAlps": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CorsicaFrance": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    },
+    "mistral:7b-instruct-q8_0": {
+        "AustrianAlps": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    },
+    "gemma2:2b": {
+        "AustrianAlps": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CorsicaFrance": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    },
+    "llama3.2:3b": {
+        "AustrianAlps": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CorsicaFrance": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    },
+    "phi3.5:latest": {
+        "AustrianAlps": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CorsicaFrance": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    },
+    "deepseek-r1:14b-qwen-distill-q8_0": {
+        "AustrianAlps": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CorsicaFrance": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    },
+    "phi4:14b-q8_0": {
+        "AustrianAlps": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CorsicaFrance": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    },
+    "llama2:13b-chat-q8_0": {
+        "AustrianAlps": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "StaraPlaninaBulgaria": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CeskyLesCzechia": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "CorsicaFrance": "Divide the provided text into paragraphs without deleting, adding or changing words.",
+        "DromeValleyFrance": "Divide the provided text into paragraphs without deleting, adding or changing words."
+    }
+}

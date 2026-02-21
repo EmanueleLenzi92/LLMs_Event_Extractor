@@ -1,0 +1,61 @@
+{
+    "gemma2:9b-instruct-q8_0": {
+        "LONGAustrianAlps": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCeskyLesCzechia": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCorsicaFrance": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGDromeValleyFrance": "Divide in events the text provided, without adding, changing or deleting any words."
+    },
+    "llama3:8b-instruct-q8_0": {
+        "LONGAustrianAlps": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCeskyLesCzechia": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCorsicaFrance": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGDromeValleyFrance": "Divide in events the text provided, without adding, changing or deleting any words."
+    },
+    "mistral:7b-instruct-q8_0": {
+        "LONGAustrianAlps": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCeskyLesCzechia": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCorsicaFrance": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGDromeValleyFrance": "Divide in events the text provided, without adding, changing or deleting any words."
+    },
+    "gemma2:2b": {
+        "LONGAustrianAlps": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCeskyLesCzechia": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCorsicaFrance": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGDromeValleyFrance": "Divide in events the text provided, without adding, changing or deleting any words."
+    },
+    "llama3.2:3b": {
+        "LONGAustrianAlps": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCeskyLesCzechia": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCorsicaFrance": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGDromeValleyFrance": "Divide in events the text provided, without adding, changing or deleting any words."
+    },
+    "phi3.5:latest": {
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words."
+    },
+    "deepseek-r1:14b-qwen-distill-q8_0": {
+        "LONGAustrianAlps": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCeskyLesCzechia": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCorsicaFrance": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGDromeValleyFrance": "Divide in events the text provided, without adding, changing or deleting any words."
+    },
+    "phi4:14b-q8_0": {
+        "LONGAustrianAlps": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCeskyLesCzechia": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCorsicaFrance": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGDromeValleyFrance": "Divide in events the text provided, without adding, changing or deleting any words."
+    },
+    "llama2:13b-chat-q8_0": {
+        "LONGAustrianAlps": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGStaraPlaninaBulgaria": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCeskyLesCzechia": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGCorsicaFrance": "Divide in events the text provided, without adding, changing or deleting any words.",
+        "LONGDromeValleyFrance": "Divide in events the text provided, without adding, changing or deleting any words."
+    }
+}
