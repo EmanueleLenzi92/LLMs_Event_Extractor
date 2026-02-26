@@ -1,15 +1,14 @@
-# LLM Benchmark – Narrative-to-Events Segmentation (MOVING)
+# LLM Benchmark – Narrative-to-Events Segmentation
 
-This script benchmarks multiple local LLMs (via **Ollama + LangChain**) for splitting **MOVING textual reports** into **events/paragraphs** without changing the original wording.
+This script benchmarks multiple local LLMs (via **Ollama + LangChain**) for splitting **MOVING (https://www.moving-h2020.eu/) textual reports** into **events/paragraphs** without changing the original wording.
 
 ## What it does
 - Runs several **models** × **system prompts** × **iterations** on a set of MOVING narratives
 - Measures output quality by checking similarity to the original text (Jaccard) and basic paragraph/sentence statistics
-- Selects the **best output** per narrative and model
 - Saves all results to JSON files for analysis
 
 ## Inputs (configured in the script)
-- `models` / `chosen_models`: LLMs to test (Ollama model names)
+- `models` / `chosen_models`: LLMs to test (Ollama (https://ollama.com/) model names)
 - `system_prompts` / `chosen_systemPrompt`: prompts for segmentation
 - `iterations`: number of runs per model/prompt/text
 - `chosen_narratives`: which MOVING texts to evaluate
@@ -29,6 +28,6 @@ The script writes JSON files (suffix is requested at runtime):
 
 ## Run
 ```bash
-python your_script_name.py
+python main.py
 ```
 You will be asked for a suffix to name the output JSON files.
