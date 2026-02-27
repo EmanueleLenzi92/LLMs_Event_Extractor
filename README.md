@@ -8,7 +8,7 @@ This script benchmarks multiple local LLMs (via **Ollama + LangChain**) for spli
 - Saves all results to JSON files for analysis
 
 ## Inputs (configured in the script)
-- `models` / `chosen_models`: LLMs to test (Ollama (https://ollama.com/) model names)
+- `models` / `chosen_models`: LLMs to test (Ollama (https://ollama.com/) is required)
 - `system_prompts` / `chosen_systemPrompt`: prompts for segmentation
 - `iterations`: number of runs per model/prompt/text
 - `chosen_narratives`: which MOVING texts to evaluate
